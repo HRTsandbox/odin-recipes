@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+.header {
+    border: 0px 0px 1px 0px;
+    border-color: black;
+}
+
+.h-logo {
+    display: inline-block;
+}
+
+.h-title {
+    display: inline-block;
+}
+
+.h-navigation {
+    display: inline-block;
+}
+
